@@ -1,6 +1,7 @@
 # **Liubov Morozova**
 ## **Contact Information:**
-1. E-mail: liubov.morozova.90@mail.ru
+![CV-GH](CV-GH.png "Liubov Morozova")
+1. E-mail: liubovmorozova.90@mail.ru
 2. Pnone: 8-951-655-38-15
 3. Address: Russia, Saint-Peterburg, st. Marata, 11
 
